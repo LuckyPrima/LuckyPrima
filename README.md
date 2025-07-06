@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Word I'm Lucky Prima 👋
 
 <!--
 **LuckyPrima/LuckyPrima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
