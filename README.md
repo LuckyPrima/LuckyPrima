@@ -1,26 +1,99 @@
-<h1 align="center">About Me</h1>
-<h4 align="center">Hello i'm Lucky Prima 👋<br>A passionate Full Stack Developer</h4>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Hi%20there!%20I'm%20Lucky%20Prima&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20using%20the%20JavaScript%20ecosystem&descAlignY=55&descSize=16&descAlign=50&descTheme=ffffff" alt="Header" width="100%" />
+
+  <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;React+|+Next.js+Frontend+%F0%9F%9A%80;Node.js+|+Express+Backend+%F0%9F%94%A5" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <p>
+    <a href="https://linkedin.com/in/lucky-prima-putra-helen-00baab179">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://luckyprima.vercel.app/">
+      <img src="https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:luckyprima2002@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://instagram.com/luckyprima">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=LuckyPrima&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile views" />
+    <a href="https://github.com/LuckyPrima?tab=followers">
+      <img alt="followers" title="Followers" src="https://img.shields.io/github/followers/LuckyPrima?label=FOLLOWERS&style=for-the-badge&color=8B5CF6" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 📫 How to reach me:
+### 🛠️ Tech Stack & Tools
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luckyprima2002@gmail.com)
+#### 🎨 Frontend
 
-### 🌐 Socials:
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Zustand-462E3B?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luckyprima) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucky-prima-putra-helen-00baab179)
+#### ⚙️ Backend
 
-### 💻 Tech Stack:
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Hapi.js-1A262B?style=for-the-badge&logo=hapidotjs&logoColor=white" alt="Hapi.js" />
+  <img src="https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge&logo=json&logoColor=white" alt="RESTful API" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+</p>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+#### 🗄️ Database
 
-### 📊 GitHub Stats:
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Sequelize_ORM-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=LuckyPrima&theme=react&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LuckyPrima&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyPrima&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+#### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+</p>
+
+#### 🧰 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=LuckyPrima&icon=1&color=0)](https://visitcount.itsvg.in)
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuckyPrima&theme=react&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyPrima&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=LuckyPrima&theme=react&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="Footer" width="100%" />
+</div>
